@@ -15,3 +15,11 @@ a {
 .second {
     background-color:rgb(4, 165, 162)
 }
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.second{
+    color: white;
+}
