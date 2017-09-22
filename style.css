@@ -1,17 +1,50 @@
+body{
+    font-family:'Montserrat,' sans-serif;
+}
+    
+    
 .logo {
-    height: 55px;
-    padding:0px;
-    margin:25px;
+    height: 5em;
+    padding:5px;
+    margin:0 auto;
+    float:left;
+    margin-left:8em;
     
     
 }
 
+.top-text{
+    margin-top: 1.5em;
+
+}
+
 a {
     font-size: 25px;
+    color:gray;
+    margin:0 auto;
+    display:inline-block;
+    margin-right:5px;
     
 
 }
 
 .second {
     background-color:rgb(4, 165, 162)
+}
+
+
+.phone{
+    padding-left: 5em;
+}
+
+.bottom{
+    margin-top: 1.5em;
+}
+h6{
+    margin-top:1em;
+}
+
+.bottom-pic{
+    display:inline-block;
+    margin:0 auto;
 }
