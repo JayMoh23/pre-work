@@ -47,4 +47,10 @@ h6{
 .bottom-pic{
     display:inline-block;
     margin:0 auto;
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.second{
+    color: white;
 }
